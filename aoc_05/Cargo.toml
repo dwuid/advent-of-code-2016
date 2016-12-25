@@ -1,0 +1,8 @@
+[package]
+name = "aoc_05"
+version = "0.1.0"
+authors = ["dwuid <dwuid@users.noreply.github.com>"]
+
+[dependencies]
+md5 = "0.3.2"
+lazy_static = "0.2.2"
